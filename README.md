@@ -1,2 +1,2 @@
-# Mall
-Cosmetic Mall Management System
+# ASOL API
+ASOL GENERIC API
